@@ -260,7 +260,7 @@ input[type=submit]:hover {
 
 <h1>Submit a new Attack</h1>
 
-<form action="https://send.pageclip.co/SlV6iY6tGiwn6CKLqnvHmb5ypq3vGGBQ/new-attack" class="pageclip-form" method="post">
+<form action="https://send.pageclip.co/SlV6iY6tGiwn6CKLqnvHmb5ypq3vGGBQ/VR-MITRE" class="pageclip-form" method="post">
   <!-- Replace these inputs with your own. Make sure they have a "name" attribute! -->
   <label for="Name">Name:</label>
   <input type="text" name="Name" value="" />
